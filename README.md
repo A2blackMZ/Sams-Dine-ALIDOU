@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Portfolio
 
 ```sh
@@ -28,3 +29,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# Sams-Dine-ALIDOU
+Mon Portfolio Astro
+>>>>>>> 66541468099dd0ec86f30a7ad5a8cfabdbbd9b71
