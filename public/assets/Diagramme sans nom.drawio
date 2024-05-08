@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T10:33:06.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="QT2N43liOJ_Y-a-gzN8A" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T10:51:31.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="DYQXus7ZkAuijt3JpuxL" version="24.3.1" type="github">
   <diagram name="Page-1" id="tIOGqNSBbXkv8xK3KrCa">
     <mxGraphModel dx="1282" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="j1WCuB2a1CNJicdkOU80-9" value="&lt;b&gt;extensions points&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j1WCuB2a1CNJicdkOU80-3">
           <mxGeometry x="210" y="50" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j1WCuB2a1CNJicdkOU80-12" value="ajouter des objectifs de stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j1WCuB2a1CNJicdkOU80-3">
+        <mxCell id="j1WCuB2a1CNJicdkOU80-12" value="creer des objectifs de stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j1WCuB2a1CNJicdkOU80-3">
           <mxGeometry x="173.75" y="65" width="182.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j1WCuB2a1CNJicdkOU80-14" value="ajouter et assigner des taches de stage" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="j1WCuB2a1CNJicdkOU80-3">
